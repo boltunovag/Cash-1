@@ -118,13 +118,13 @@
 ### Задание 2
 
 `Приведите ответ в свободной форме........`
-![Status][img/'Cach-1 : systemctl01.png']
+![Status](img/Cach-1%20%3A%20systemctl01.png)
 
 ---
 
 ### Задание 3
 
-![Memcached][img/'img : telnet — Konsole_02.png']
+![Memcached](img/img%20%3A%20telnet%20%E2%80%94%20Konsole_02.png)
 
 ---
 
