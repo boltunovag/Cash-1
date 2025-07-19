@@ -137,6 +137,6 @@
 ### Задание 5
 
 
-![Int incrby](img/'img : telnet — Konsole_02.png')
+![Int incrby](img/incrby.png)
 
 ---
