@@ -130,5 +130,13 @@
 
 ### Задание 4
 
+![Redis](img/Reddis.png)
+
 ---
 
+### Задание 5
+
+
+![Memcached](img/img%20%3A%20telnet%20%E2%80%94%20Konsole_ncrby.png)
+
+---
