@@ -137,6 +137,6 @@
 ### Задание 5
 
 
-![Memcached](img/img%20%3A%20telnet%20%E2%80%94%20Konsole_ncrby.png)
+![Int incrby](img/img%20%3A%20telnet%20%E2%80%94%20Konsole_incrby.png)
 
 ---
